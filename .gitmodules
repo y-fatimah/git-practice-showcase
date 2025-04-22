@@ -1,0 +1,3 @@
+[submodule "math-submodule"]
+	path = math-submodule
+	url = https://github.com/y-fatimah/math-submodule
